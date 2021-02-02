@@ -1,0 +1,96 @@
+{
+    "Items":[
+        {
+            "Sl.No":1,
+            "Name":"Toothpaste",
+            "Quantity":1,
+            "Unit":"gm",
+            "Department":"Personal care",
+            "Notes":""
+        
+        },
+
+        {
+            "Sl.No":1,
+            "Name":"Milk",
+            "Quantity":2,
+            "Unit":"l",
+            "Department":"Dairy",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":3,
+            "Name":"Soap",
+            "Quantity":2,
+            "Unit":"gm",
+            "Department":"Personal care",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":4,
+            "Name":"Eggs",
+            "Quantity":6,
+            "Unit":"No",
+            "Department":"Dairy",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":5,
+            "Name":"Sugar",
+            "Quantity":2,
+            "Unit":"Kg",
+            "Department":"Condiments",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":6,
+            "Name":"Fish",
+            "Quantity":1,
+            "Unit":"Kg",
+            "Department":"Meat",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":7,
+            "Name":"Oranges",
+            "Quantity":2,
+            "Unit":"Kg",
+            "Department":"Fruits",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":8,
+            "Name":"Tomato",
+            "Quantity":2,
+            "Unit":"Kg",
+            "Department":"Vegetables",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":9,
+            "Name":"Coconut oil",
+            "Quantity":1,
+            "Unit":"l",
+            "Department":"Oils",
+            "Notes":""
+        
+        },
+        {
+            "Sl.No":10,
+            "Name":"Rice",
+            "Quantity":5,
+            "Unit":"Kg",
+            "Department":"Grains",
+            "Notes":""
+        
+        }
+        
+    ]
+}

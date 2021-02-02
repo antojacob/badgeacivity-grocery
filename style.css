@@ -1,0 +1,28 @@
+th, td, p, input {
+    font:14px Verdana;
+}
+table, th, td 
+{
+    border: solid 2px white;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+    height: auto;
+    width: fit-content;
+}
+th {
+    font-weight:bold;
+}
+#bdy{
+    background-color: skyblue;
+}
+#heading{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-top: 60px;
+}
+#heading p{
+    align-content: center;
+    padding-left: 33%;
+}
